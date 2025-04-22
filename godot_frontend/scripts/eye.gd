@@ -81,9 +81,9 @@ func deal_with_damage():
 			can_take_damage = false
 
 			if Global.player_current_attack1:
-				health -= 50
-			elif Global.player_current_attack2:
 				health -= 10
+			elif Global.player_current_attack2:
+				health -= 30
 
 			print("Eye enemy health = ", health)
 

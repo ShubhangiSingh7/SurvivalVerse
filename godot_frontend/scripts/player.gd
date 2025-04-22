@@ -184,7 +184,7 @@ func update_health():
 
 func _on_regin_timer_timeout() -> void:
 	if health < 100:
-		health += 30
+		health += 20
 		if health > 100:
 			health = 100
 	if health <= 0:

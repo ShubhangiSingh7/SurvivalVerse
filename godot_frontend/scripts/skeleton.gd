@@ -94,9 +94,9 @@ func deal_with_damage():
 
 			# Determine the attack type and apply corresponding damage
 			if Global.player_current_attack1:
-				health -= 50
-			elif Global.player_current_attack2:
 				health -= 10
+			elif Global.player_current_attack2:
+				health -= 30
 
 			print("Skeleton enemy health = ", health)
 

@@ -44,5 +44,6 @@ func change_scene():
 func _on_button_pressed() -> void:
 	print("change scene")
 	Global.level=1
+	Global.score=0
 	get_tree().change_scene_to_file("res://scenes/world.tscn")
 	$deathui.visible = false

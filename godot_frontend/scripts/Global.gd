@@ -16,7 +16,7 @@ var first_time_game_load = true
 
 var player_wallet = ""
 
-var level = 6  # Initial level (can be updated as the player progresses)
+var level = 1  # Initial level (can be updated as the player progresses)
 
 var enemy_data = {}  # Stores enemy stats
 var score = 0
