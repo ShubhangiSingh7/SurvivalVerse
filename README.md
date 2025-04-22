@@ -68,7 +68,7 @@ CONTRACT_ADDRESS=0xaC63b89FEB3D55a0a968EE21bE2375eD3D589a1b
 
 Local Setup:
 # Clone the repo
-git clone https://github.com/ShubhangiSingh7/SurvivalVerse
+git clone https://github.com/Cod-e-z/SurvivalVerse
 
 # Install dependencies
 cd SurvivalVerse
