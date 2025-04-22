@@ -1,0 +1,11 @@
+res://scenes/world.tscn
+res://scenes/player.tscn
+res://scenes/skeleton.tscn
+res://scenes/mushroom.tscn
+res://scenes/eye.tscn
+res://scenes/goblin.tscn
+res://scenes/right_side_scene.tscn
+res://scenes/orb_collectable.tscn
+res://scenes/main_menu.tscn
+res://scripts/player.gd
+res://scripts/Global.gd

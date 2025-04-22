@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+
+# Hardhat artifacts and cache
+/artifacts/
+/cache/
+
+# ABI files
+/abis/
+
+# Godot build and export directories
+/build/
+/export/
+
+# Logs
+*.log
