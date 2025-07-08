@@ -1,8 +1,8 @@
-res://scenes/main_menu.tscn
 res://scenes/player.tscn
 res://scenes/skeleton.tscn
 res://scenes/mushroom.tscn
 res://scenes/eye.tscn
 res://scenes/goblin.tscn
 res://scenes/orb_collectable.tscn
-res://scripts/main_menu.gd
+res://scenes/main_menu.tscn
+res://scenes/world.tscn
