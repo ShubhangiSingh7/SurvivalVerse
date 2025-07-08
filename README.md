@@ -60,7 +60,6 @@ Demo Video Link: https://www.loom.com/share/61c986be1f2e47859983f2206ec8c7eb?sid
 Requirements:
 Node.js / GDScript / Solidity
 
-Local Setup:
 # Clone the repo
 git clone https://github.com/Cod-e-z/SurvivalVerse
 
