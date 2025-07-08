@@ -59,12 +59,6 @@ Demo Video Link: https://www.loom.com/share/61c986be1f2e47859983f2206ec8c7eb?sid
 🧪 How to Run the Project
 Requirements:
 Node.js / GDScript / Solidity
-API Keys: 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
-.env file setup: 
-GROQ_API_KEY=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
-RPC_URL=https://monad-testnet.g.alchemy.com/v2/4EEFhfQxRom_yrXe7gB1TmC7oKf-ycu_
-PRIVATE_KEY=29b7f86c0860e62888d264e0bda15de9ad0364f31a35f4d07613ae04a3b42c01
-CONTRACT_ADDRESS=0xaC63b89FEB3D55a0a968EE21bE2375eD3D589a1b
 
 Local Setup:
 # Clone the repo
